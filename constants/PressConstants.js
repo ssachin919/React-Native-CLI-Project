@@ -1,0 +1,1 @@
+export const HISTORY_ADD_ITEM = 'HISTORY_ADD_ITEM';
